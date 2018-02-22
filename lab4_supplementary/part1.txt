@@ -1,0 +1,41 @@
+Thadeus Labuszewski
+
+1. 	background-color: aquamarine;
+
+	#div1 {
+   		background-color: aquamarine;
+	}
+
+2.	Changing the padding increases and decreases the size of the boxes
+	Changing the margin increases and decreases the space between the boxes
+
+3. 	If the padding is greater than 100px then the paragraph boxes increase in size
+	If the margin is greater than 100px then the paragraph boxes disappear off the screen because 
+	it exceeds the width of the container its in
+
+4.	Scroll allows you to scroll the individual divs with scroll bars
+	Hidden hides the scroll bars
+
+5. 	Float left aligns everything on the left side, horizontally in the order 1 2 3
+	Float right aligns everything on the right side, horizontally in the order 3 2 1
+
+6.	Each float: left and clear: right command moves the boxes to the left. Each time you use this 	command for a particular div it will align and to the left with the previous boxes that were 	moved.
+
+7.	#div1 {
+   		 background-color: aquamarine;
+   		 float: left;
+    		clear: right;
+	}
+	#div2 {
+ 		   background-color: aquamarine;
+ 		   float: left;
+  		  clear: right;
+	}
+	#div3 {
+		    background-color: aquamarine;
+		    float: left;
+ 		   clear: left;
+	}
+
+8. 	When the margin is 0px, everything aligns to the far left of the screen. There are no spaces
+	between the left side of the page and the boxes.

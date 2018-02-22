@@ -1,0 +1,98 @@
+/* Thadeus Labuszewski */
+
+body{
+    background-image: url("green.jpg");
+    background-repeat: repeat;
+    background-size: 150px;
+
+}
+
+#container {
+    border: 6px dotted yellow;
+   width: 20%;
+   margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    position: fixed;
+    text-align: center;
+    text-color: black;
+    font-family: Arial;
+    font-size: 17px;
+    background-color: purple;
+    
+
+    
+}
+a {
+    color: red;
+    background-color: yellow;
+}
+a:hover {
+    color: blue
+}
+
+#div1{
+    border:1px solid black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    background-color: cornflowerblue;
+    padding: 5px;
+
+}
+#div2{
+     border:1px solid black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding: 5px;
+    background-color: pink;
+}
+#div3{
+     border:1px solid black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding: 5px;
+    background-color: peachpuff;
+}
+#div4{
+    border:1px solid black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding: 5px;
+    background-color:aliceblue
+}
+
+#container2 {
+    margin-left: 26%
+}
+
+#div12{
+
+    background-color: aliceblue;
+}
+#div22{
+
+    background-color: peachpuff;
+}
+#div32{
+
+    background-color: pink;
+}
+#div42{
+
+    background-color: cornflowerblue;
+}
+
+
+/*1st change: added a tile image to the background
+2nd change: changed colors/border of my container div 
+3rd change: changed colors of my container2 div 
+4th change: added a hover: option to my links so that when you hover over them they change color
+5th change: changed font of my info  links 
+
+*/
+
+
