@@ -1,0 +1,11 @@
+Thadeus Labuszewski
+
+1. 	To use Bootstrap, link the Bootstrap stylesheet <link> into your <head> before all other 
+	stylesheets to load the CSS. Then you add the JavaScript plugins, jQuery, and Tether near the 
+	end of your pages, right before the closing </body> tag. 
+
+2.	The Bootstrap grid is a library of HTML/CSS components that allow you to structure a website 
+	and its content in desired locations easily. Like a sheet of graph paper, the Bootstrap grid
+	is made up of 12 columns and n rows so that you can easily place content where you want. The
+	container class holds the grid elements. Withing the container class you can define row and
+	columns with specific class attributes that allow for customization. 
